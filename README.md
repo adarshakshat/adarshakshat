@@ -5,6 +5,9 @@
  - [ ] Wordpress Plugin for Different support for Magadh School of Science and Humanities.
  - [ ] Website Development for Navya LED.
  - [ ] E-commerce Integration for Navya LED.
+ - [ ] My Price
+ - [ ] Radict (Custom Data Structure based on Radix)
  ## Current Projects
  
- - [ ] My Price
+ - [ ] AntiMatic [Token to short XXXXX coin]
+ - [ ] 
